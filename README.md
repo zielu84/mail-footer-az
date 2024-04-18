@@ -1,2 +1,2 @@
-# az-mail-footer
+# mail-footer-az
 HTML mail footer for mail clients
